@@ -62,7 +62,5 @@ def monopoly_with_fourth_tier
 	    }
 	  }
 	}
-	Resources
-	Ruby Documentation on Hashes
-	What is a Hash in Ruby?
+	
 end
